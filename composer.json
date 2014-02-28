@@ -1,0 +1,21 @@
+{
+    "name": "prafulzalke/hourmanagement",
+    "description": "Hour managament software",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "hour",
+        "managament",
+        "hourmanagement",
+        "horea"
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": ">2.2.0rc1",
+        "zendframework/zftool": "dev-master",
+        "zendframework/zend-developer-tools": "dev-master",
+        "doctrine/doctrine-orm-module": "0.*",
+        "zf-commons/zfc-user": "dev-master",
+        "zf-commons/zfc-user-doctrine-orm": "dev-master",
+        "zf-commons/zfc-twig": "dev-master"
+    }
+}
